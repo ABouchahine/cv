@@ -1,0 +1,29 @@
+body {
+  background-color: #f1f1f1;
+}
+hr {
+  border-style: none;
+  border-bottom: 5px dotted #f5e1da;
+  height: 2px;
+  width: 10%;
+}
+h1 {
+  color: #40a798;
+  letter-spacing: 3px;
+}
+h2 {
+  color: #40a798;
+}
+h3 {
+  color: #40a798;
+}
+h4 {
+  color: #40a798;
+}
+p {
+  color: #476269;
+  width: 50%;
+}
+li {
+  color: #476269;
+}
